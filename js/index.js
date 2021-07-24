@@ -14,7 +14,7 @@ function handlePlay() {
     $video.play()
     $play.hidden = true;
     $pause.hidden = false;
-    console.log (' Reproduciendo el video')
+    console.log ('Reproduciendo el video')
 }
 
 function handlePause() {
